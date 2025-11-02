@@ -1,0 +1,19 @@
+// Multi-Agent Debate DAG
+digraph {
+	UserInput [label="🧑‍💻 User Input Node
+(Accepts topic)"]
+	Scientist [label="🔬 Agent A: Scientist
+(Argues for regulation)"]
+	Philosopher [label="🧠 Agent B: Philosopher
+(Argues against regulation)"]
+	Memory [label="💾 Memory Node
+(Stores structured summary)"]
+	Judge [label="⚖️ Judge Node
+(Reviews debate & declares winner)"]
+	UserInput -> Scientist
+	Scientist -> Memory
+	Memory -> Philosopher
+	Philosopher -> Memory
+	Memory -> Scientist
+	Memory -> Judge
+}

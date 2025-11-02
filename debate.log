@@ -1,0 +1,1234 @@
+[2025-11-01T10:52:12.786054] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 1,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+}
+---
+[2025-11-01T10:52:12.788419] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 2,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas."
+}
+---
+[2025-11-01T10:52:12.790889] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 3,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+}
+---
+[2025-11-01T10:52:12.792769] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 4,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+}
+---
+[2025-11-01T10:52:12.794428] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 5,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.\nRound 5 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+}
+---
+[2025-11-01T10:52:12.795940] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 6,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 6,
+      "agent": "Philosopher",
+      "argument": "Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress. | Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.\nRound 5 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.\nRound 6 Philosopher: Ethical reflection needs freedom; premature regulation could ossify moral positions."
+}
+---
+[2025-11-01T10:55:34.152788] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 1,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+}
+---
+[2025-11-01T10:55:34.154429] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 2,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas."
+}
+---
+[2025-11-01T10:55:34.156951] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 3,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+}
+---
+[2025-11-01T10:55:34.156951] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 4,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+}
+---
+[2025-11-01T10:55:34.160457] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 5,
+  "max_rounds": 8,
+  "agent_turn": "Philosopher",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.\nRound 5 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+}
+---
+[2025-11-01T10:55:34.162612] STATE UPDATE:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 6,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Philosopher",
+      "argument": "Regulation can stifle intellectual exploration and the open exchange of ideas."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 4,
+      "agent": "Philosopher",
+      "argument": "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 6,
+      "agent": "Philosopher",
+      "argument": "Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Regulation can stifle intellectual exploration and the open exchange of ideas. | Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress. | Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "Regulation can stifle intellectual exploration and the open exchange of ideas.",
+      "Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.",
+      "Ethical reflection needs freedom; premature regulation could ossify moral positions."
+    ]
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Philosopher: Regulation can stifle intellectual exploration and the open exchange of ideas.\nRound 3 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 4 Philosopher: Overly-prescriptive rules may entrench existing paradigms and slow philosophical progress.\nRound 5 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.\nRound 6 Philosopher: Ethical reflection needs freedom; premature regulation could ossify moral positions."
+}
+---
+[2025-11-01T11:19:37.699445] Round 1 update
+{"round": 1, "agent": "Scientist", "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 1,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+}
+---
+[2025-11-01T11:19:37.701732] Round 2 update
+{"round": 2, "agent": "Scientist", "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 2,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+}
+---
+[2025-11-01T11:19:37.703867] Round 3 update
+{"round": 3, "agent": "Scientist", "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 3,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 3 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+}
+---
+[2025-11-01T11:19:37.705728] Round 4 update
+{"round": 4, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 4,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 4,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 3 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.\nRound 4 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+}
+---
+[2025-11-01T11:19:37.706786] Round 5 update
+{"round": 5, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 5,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 4,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 3 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.\nRound 4 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized.\nRound 5 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+}
+---
+[2025-11-01T11:19:37.709028] Round 6 update
+{"round": 6, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 6,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 1,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 2,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 3,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 4,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 5,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 6,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. (rephrased to avoid repetition) | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. (rephrased to avoid repetition)",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Round 1 Scientist: AI must be regulated like medicine due to safety-critical failures and reproducibility issues.\nRound 2 Scientist: Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.\nRound 3 Scientist: Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.\nRound 4 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized.\nRound 5 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized.\nRound 6 Scientist: Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+}
+---
+[2025-11-01T11:42:05.044727] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": [
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
+[2025-11-01T11:42:05.048812] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": [
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
+[2025-11-01T11:42:05.051747] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
+[2025-11-01T11:42:05.056325] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
+[2025-11-01T11:42:05.061197] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
+[2025-11-01T11:42:05.064998] Round 0 update
+{"round": 0, "agent": "Scientist", "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."}
+STATE SNAPSHOT:
+{
+  "topic": "Should AI be regulated like medicine?",
+  "round": 0,
+  "max_rounds": 8,
+  "agent_turn": "Scientist",
+  "transcript": [
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "AI must be regulated like medicine due to safety-critical failures and reproducibility issues."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    },
+    {
+      "round": 0,
+      "agent": "Scientist",
+      "argument": "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    }
+  ],
+  "summaries": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues. | Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI. | Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. | Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. (rephrased to avoid repetition) | Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "last_arguments": {
+    "Scientist": [
+      "AI must be regulated like medicine due to safety-critical failures and reproducibility issues.",
+      "Regulatory frameworks ensure standards, testing, and post-market surveillance for high-risk AI.",
+      "Medical-style regulation reduces harm and provides a path for certified deployment in critical sectors.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized.",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized. (rephrased to avoid repetition)",
+      "Precedent from medical device regulation demonstrates how patient safety can be prioritized."
+    ],
+    "Philosopher": []
+  },
+  "judge_summary": "Scientist focused on structured, risk-based reasoning; Philosopher emphasized ethics and autonomy."
+}
+---
