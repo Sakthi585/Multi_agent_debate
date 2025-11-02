@@ -1,0 +1,7 @@
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-core>=0.0.0
+graphviz
+python-dotenv
+typing_extensions
+rich

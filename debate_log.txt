@@ -1,0 +1,11 @@
+[Round 1] Scientist: AI must be regulated due to high-risk applications.
+[Round 2] Philosopher: Regulation could stifle philosophical progress and autonomy.
+[Round 3] Scientist: Regulations ensure AI safety and accountability.
+[Round 4] Philosopher: Freedom drives innovation more than control.
+[Round 5] Scientist: Unregulated AI could cause social and ethical harm.
+[Round 6] Philosopher: Ethical growth emerges through open exploration.
+[Round 7] Scientist: Without oversight, AI might surpass human control.
+[Round 8] Philosopher: Excessive rules limit intellectual creativity.
+
+Winner: Scientist
+Reason: Presented more grounded, risk-based arguments aligned with public safety principles.
